@@ -1,6 +1,6 @@
-# -fauto-inc-dec option
+## -fauto-inc-dec flag
 
-## What the GNU docs say
+### What the GNU docs say
 
 > -fauto-inc-dec
 
